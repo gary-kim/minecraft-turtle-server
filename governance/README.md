@@ -14,13 +14,17 @@ Excerpt from <https://opensource.guide/leadership-and-governance/>:
 
 ### Server Configuration
 
-Server configuration changes can only be done through the process outlined in the overview.
+Server configuration changes can only be done through the process outlined in the [overview](#overview).
 
 Except any changes required for the continued operation of the server (refer to [Article 14: Section 31](#article-14-section-31)), no special treatment will be provided to configuration change proposals by the server administrator.
 
 ### Server Maintenance
 
 A server requires maintenance and upkeep to continue running normally. This often involves occasional restarts. These restarts should be planned ahead of time and be posted on a status page ahead of time to allow players time to prepare. Currently, the status page used is <https://status.garykim.dev>.
+
+### Whitelist
+
+Refer to the [whitelist documentation](whitelist.md).
 
 ### Article 14: Section 31
 
